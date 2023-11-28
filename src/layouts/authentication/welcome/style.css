@@ -1,0 +1,51 @@
+body{
+    background: #F8F7F7 no-repeat padding-box;
+}
+
+.welcome-title{
+    color: #101010;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.second-title{
+    color: #101010;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.boutons{
+    text-align: center;
+    top: 50%;
+}
+.btns{
+    font-size: 15px;
+    border-radius: 5px;
+    width: 254px;
+    height: 38px;
+    border: none;
+    margin-top: 70px;
+}
+.btn-cotisation{
+    background-color: #3AC5CF;
+    color: #101010;
+    top: 311px;
+    left: 390px;
+}
+
+.btn-connexion{
+    background-color: #006533;
+    color: #F8F7F7;
+    top: 311px;
+    left: 724px;
+}
+
+#separator {
+    border-left: 2px solid #707070;
+    padding-left: 15px;
+    font-size: 2px;
+    color:#707070;
+    height: 200px;
+}
